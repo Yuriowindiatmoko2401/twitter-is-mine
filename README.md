@@ -1,4 +1,4 @@
-# MERN Stack Project: Twitter Clone | JWT, React Query, Cloudinary
+# Twitter Is Mine | Full-Stack Twitter Clone
 
 ![Demo App](https://i.ibb.co/f8y9vGS/Group-82.png)
 
@@ -18,6 +18,19 @@
 - 🔔 Notifications for New Followers and Likes
 - 🌐 Production-ready Deployment Configuration
 
+## About This Project
+
+**Twitter Is Mine** is my personal implementation of a Twitter-like social platform using the MERN stack (MongoDB, Express, React, Node.js). I've built this application to demonstrate full-stack development skills including user authentication, real-time data updates, image uploading, and responsive UI design.
+
+## Tech Stack
+
+- Frontend: React.js, React Query, Tailwind CSS, DaisyUI
+- Backend: Node.js, Express
+- Database: MongoDB
+- Authentication: JWT (JSON Web Tokens)
+- Image Storage: Cloudinary
+- Styling: Tailwind CSS with DaisyUI components
+
 ## Installation
 
 ### Prerequisites
@@ -30,8 +43,8 @@
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/twitter-clone.git
-cd twitter-clone
+git clone https://github.com/Yuriowindiatmoko2401/twitter-is-mine.git
+cd twitter-is-mine
 ```
 
 ### Install Dependencies
@@ -164,5 +177,7 @@ npm start
    - Make sure proxy setting is correct in frontend package.json
 
 ## License
+
+Developed by Yurio Windiatmoko (Yuriowindiatmoko2401)
 
 ISC
