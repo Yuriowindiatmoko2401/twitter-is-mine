@@ -1,6 +1,6 @@
 # Twitter Is Mine | Full-Stack Twitter Clone
 
-![Demo App](https://i.ibb.co/f8y9vGS/Group-82.png)
+![Demo App](./twitter-clone.gif)
 
 ## Features
 
